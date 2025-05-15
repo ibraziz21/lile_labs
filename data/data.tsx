@@ -188,7 +188,7 @@ export const people = [
   
   {
     name: 'Ibrahim Aziz',
-    role: 'Co-Founder, Developer Path',
+    role: 'Co-Founder, Development Lead',
     imageUrl: Omar,
     twitterUrl: 'https://x.com/ibraziz21',
     linkedinUrl:
@@ -196,7 +196,7 @@ export const people = [
   },
   {
     name: 'Edwin Munyui',
-    role: 'Co-Founder, Research Path',
+    role: 'Co-Founder, Research Lead',
     imageUrl: Munyui,
     twitterUrl: 'https://twitter.com/gachaja',
     linkedinUrl:
@@ -204,7 +204,7 @@ export const people = [
   },
   {
     name: 'Lujan Odera',
-    role: 'Co-Founder, Education',
+    role: 'Co-Founder, Education Lead',
     imageUrl: Lujan,
     twitterUrl: 'https://x.com/lujanodera',
     linkedinUrl:
@@ -212,7 +212,7 @@ export const people = [
   },
   {
     name: 'Levis Miriti',
-    role: 'Co-Founder, Data Analytics',
+    role: 'Co-Founder, Data Analytics Lead',
     imageUrl: Scoffie,
     twitterUrl: 'https://x.com/iithundio',
     linkedinUrl:
