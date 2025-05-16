@@ -87,10 +87,10 @@ export default async function Home() {
             className='mx-auto grid max-w-lg grid-cols-2 place-items-center gap-x-8 gap-y-12 sm:max-w-xl sm:grid-cols-3 sm:gap-x-10 sm:gap-y-14 lg:max-w-none lg:grid-cols-5'
           >
             <Image className='max-h-12 w-full object-contain' src='/assets/Aquapurge.png' alt='Aquapurge' width={158} height={48} />
-            <Image className='max-h-12 w-full object-contain' src='/assets/Web3Clubs.jpg' alt='Web3 Clubs' width={158} height={48} />
+            <Image className='max-h-12 w-full object-contain' src='/assets/web3Clubs.jpg' alt='Web3 Clubs' width={158} height={48} />
             <Image className='max-h-12 w-full object-contain' src='/assets/mashinani.png' alt='Nurturing Stars' width={158} height={48} />
             <Image className='max-h-12 w-full object-contain' src='/assets/Minipay.png' alt='Minipay' width={158} height={48} />
-            <Image className='max-h-12 w-full object-contain' src='/assets/CryptoHubKE.png' alt='Crypto Hub KE' width={158} height={48} />
+    
           </div>
         </section>
 
