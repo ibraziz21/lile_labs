@@ -78,7 +78,7 @@ export default function Header() {
         {/* Desktop CTA ------------------------------------------------------ */}
         <div className='hidden lg:flex lg:flex-1 lg:justify-end'>
           <Link
-            href='mailto:hello@lilelabs.africa'
+            href='https://calendar.app.google/VLkyP6wNXuvu988g7'
             className='rounded-full bg-[#E94224] px-6 py-2.5 text-sm font-semibold text-white
                        shadow-sm hover:bg-[#00857C] focus-visible:outline-2
                        focus-visible:outline-offset-2 focus-visible:outline-[#E94224]'
@@ -125,7 +125,7 @@ export default function Header() {
               </div>
               <div className='py-6'>
                 <Link
-                  href='mailto:hello@lilelabs.africa'
+                  href='https://calendar.app.google/VLkyP6wNXuvu988g7'
                   className='block rounded-full bg-[#E94224] px-6 py-2.5 text-center
                              text-sm font-semibold text-white shadow-sm hover:bg-[#00857C]'
                   onClick={() => setMobileOpen(false)}

@@ -48,7 +48,7 @@ export default async function Home() {
     {/* CTAs */}
     <div className='mt-10 flex gap-4'>
       <Link
-        href='mailto:hello@lilelabs.africa'
+        href='https://calendar.app.google/VLkyP6wNXuvu988g7'
         className='rounded-full bg-white/10 px-8 py-2.5 font-semibold text-white
                    backdrop-blur ring-1 ring-white/20 transition hover:bg-[#E94224]'
       >
@@ -187,7 +187,7 @@ export default async function Home() {
 
           <div className='mt-16 flex justify-center'>
             <Link
-              href='mailto:hello@lilelabs.africa'
+              href='https://calendar.app.google/VLkyP6wNXuvu988g7'
               className='rounded-full bg-[#00857C] px-8 py-3 text-sm font-semibold text-white shadow-sm hover:bg-[#E94224] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#00857C]'
             >
               Schedule a Discovery Call
